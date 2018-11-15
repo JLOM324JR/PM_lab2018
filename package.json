@@ -1,0 +1,21 @@
+{
+  "name": "PM",
+  "version": "1.0.0",
+  "description": "Radtanaporn  Choeikan Student ID: 5930213024",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Radtanaporn  Choeikan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
