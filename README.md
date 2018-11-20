@@ -2,6 +2,7 @@
 
 Radtanaporn  Choeikan
   5930213024
-Software Engineer
+Software Engineer/COC
+
 
 
