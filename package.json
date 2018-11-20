@@ -1,7 +1,7 @@
 {
   "name": "PM",
   "version": "1.0.0",
-  "description": "Radtanaporn  Choeikan Student ID: 5930213024",
+  "description": "Radtanaporn  Choeikan Student ID: 5930213024 Software engineering/COC",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
