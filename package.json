@@ -5,7 +5,8 @@
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "test": "jest --watchAll --verbose"
   },
   "keywords": [],
   "author": "Radtanaporn  Choeikan",
@@ -16,6 +17,7 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
+    "jest": "^23.6.0",
     "nodemon": "^1.18.6"
   }
 }
